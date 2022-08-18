@@ -50,12 +50,12 @@ Researched answer:
 
 Research and define the following terms to the best of your ability.
 
-1. User stories:
+1. User stories: An end goal, not a feature, expressed from the user's perspective
 
-2. Spread operator:
+2. Spread operator: Copies an array into another array or object
 
-3. React props:
+3. React props: It holds key value pairs and allows them to be used from parent to child components, ie App.js > components
 
-4. Conditional rendering:
+4. Conditional rendering: Where it shows in the webpage only if a certain condition is met
 
-5. DOM events:
+5. DOM events: Whenever the user interacts with the webpage
